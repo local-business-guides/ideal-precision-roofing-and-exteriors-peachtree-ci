@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
 Sitemap: https://local-business-guides.github.io/ideal-precision-roofing-and-exteriors-peachtree-ci/sitemap.xml
+Sitemap: https://local-business-guides.github.io/ideal-precision-roofing-and-exteriors-peachtree-ci/news-sitemap.xml
